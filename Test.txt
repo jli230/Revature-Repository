@@ -1,1 +1,1 @@
-This is test text document
+This is test text document. This is a new sentence
